@@ -1,0 +1,31 @@
+.container-fluid{
+
+}
+.logo-img{
+    width: 80px;
+}
+img{
+    width: 100%;
+}
+.nav-link{
+    color: navy;
+    opacity: 1;
+    font-weight: 900;
+}
+.zoom:hover{
+transform: scale(1.5)
+}
+.zoom{
+    transition: 0.5s;
+}
+.socio-link{
+    font-size: 1.5rem;
+    color: rgb(57, 195, 250)
+}
+footer{
+background-color: navy;
+padding-top :30px;
+padding-bottom:  30px;
+margin-top: 50px;
+color: beige
+}
