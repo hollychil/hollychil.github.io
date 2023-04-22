@@ -1,0 +1,28 @@
+.row{
+    margin: 50px;
+    align-items: center;
+}
+img{
+    width: 100%;
+}
+.gg{
+    border-radius: 50%;
+}
+html{
+    scroll-behavior: smooth;
+}
+.my-bg, .my-bg-2{
+    background-color: #a3a1a1;
+    padding: 50px 0;
+    margin-bottom: 50px;
+    /* font-family:self; */
+}
+.my-bg{
+    text-align: center;
+}
+.my-bg-2{
+    border-radius: 30px;
+}
+.container-fluid{
+    text-align: center
+}
