@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+}
+.card-1 img{
+    width: 40%;
+}
+.card-1{
+    padding: 20px;
+    text-align: center;
+}
+.how-it-works{
+    background: linear-gradient(to bottom,lightblue,white );
+    padding:50px 0;
+}
+.card-2{
+    text-align: center;
+    border: 1px solid blue;
+    padding: 15px;
+    height: 100%;
+}
+.card-2 img{
+    width: 40%;
+}
+.covid{
+    padding: 50px 0;
+    border-radius: 20px;
+    background: linear-gradient(to bottom,rgb(44, 187, 235),rgb(231, 66, 66) );
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.house{
+        background: linear-gradient(to bottom,rgb(53, 202, 251),rgb(250, 91, 91) );
+border-radius: 20px;
+}
